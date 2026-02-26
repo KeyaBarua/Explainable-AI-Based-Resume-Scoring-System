@@ -1,0 +1,14 @@
+streamlit
+scikit-learn>=1.1
+pandas
+numpy
+scipy
+joblib
+requests
+beautifulsoup4
+newspaper3k
+lxml
+pymupdf
+pdfminer.six
+matplotlib
+shap
